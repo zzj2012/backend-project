@@ -1,3 +1,0 @@
-Flask
-Flask-Cors  # 非常重要，用于处理跨域请求
-gunicorn    # 生产环境建议使用的WSGI服务器
